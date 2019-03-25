@@ -3,4 +3,5 @@ function testName(argument) {
 	$name = $this->namme();
 	$test= add('selector/elements/html');
 	$test1= add('selector/elements/html');
+	$test3= add('selector/elements/html');
 }
